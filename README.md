@@ -2,7 +2,7 @@
 
 Un hyperviseur **VMware ESXi** installé à distance sur un serveur Dell, un pare-feu **pfSense** qui sépare un réseau interne (LAN) du réseau amont (WAN), et un service web (**PairDrop**) hébergé dans **Docker**, géré avec **Portainer**, joignable par un nom de domaine interne et publié vers l'extérieur par une redirection de port.
 
-> Labo personnel monté pour pratiquer la virtualisation, le réseau et les conteneurs. Adresses, noms et identifiants sont anonymisés (voir [Anonymisation](#anonymisation)).
+> Labo monté pour pratiquer la virtualisation, le réseau et les conteneurs. Adresses, noms et identifiants sont anonymisés (voir [Anonymisation](#anonymisation)).
 
 ## Objectif du labo
 
