@@ -1,0 +1,19 @@
+services:
+  pairdrop:
+    image: lscr.io/linuxserver/pairdrop:latest
+    container_name: pairdrop
+    restart: always
+    ports:
+      - "3000:3000"
+    volumes:
+      - pairdrop_data:/data
+    networks:
+      - web
+
+volumes:
+  pairdrop_data:
+    external: true
+
+networks:
+  web:
+    external: true
