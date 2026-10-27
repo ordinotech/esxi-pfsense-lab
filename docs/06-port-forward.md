@@ -46,4 +46,5 @@ Depuis un poste d'un autre segment, ouvrir `http://<adresse WAN de pfSense>:3000
 
 Le premier essai a expiré (`ERR_CONNECTION_TIMED_OUT`) à cause du blocage des réseaux privés et bogons sur l'interface WAN : voir [Difficultés](07-difficultes.md#5-accès-refusé-depuis-un-autre-segment).
 
-> **Capture de preuve non incluse.** La capture montrant l'accès réussi depuis le segment externe affiche l'adresse WAN réelle du réseau amont ; elle n'est donc pas publiée.
+<img width="1918" height="973" alt="image" src="https://github.com/user-attachments/assets/813e26fa-a7d9-45fc-8b57-0e5899583191" />
+
